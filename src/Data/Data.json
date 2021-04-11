@@ -1,0 +1,127 @@
+{
+  "abhishek": {
+    "personalInfo": {
+      "fullName": "Abhishek Narsing",
+      "name": "Hi, I am Abhishek Narsing",
+      "tagline": "FullStack Developer & Data Scientist",
+      "description": "I’m an ambitious software developer handling all aspects of the development process for small and medium-sized businesses",
+      "image": "https://nabhishek.com/Assets/Images/banner1.png",
+      "aboutBio": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum tempora iure sit fuga similique ex impedit voluptatibus quisquam numquam adipisci itaque totam recusandae, aut corrupti cupiditate voluptas! Facere aspernatur inventore atque ipsam libero voluptatum nam minus officia temporibus optio, sequi recusandae odio quia eos illum laboriosam ducimus eaque voluptas! Aliquid tenetur quod eligendi eaque nostrum inventore hic adipisci enim fuga.",
+      "about_pic": "https://nabhishek.com/Assets/Images/banner1.png"
+    },
+    "socialLinks": {
+      "github": "https://github.com/Abhisheknarsing/abhisheknarsing",
+      "facebook": "https://www.facebook.com/abhisheknarsing",
+      "instagram": "https://www.instagram.com/abhishek_narsing",
+      "linkedin": "https://www.linkedin.com/in/abhisheknarsing"
+    },
+    "contact": {
+      "email": "talkto@nabhishek.com",
+      "mobile": "+919346202314",
+      "Address": "Hyderabad, Telangana, India"
+    },
+    "projects": [
+      {
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      },
+      {
+        "projectID": 1,
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      },
+      {
+        "projectID": 3,
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      },
+      {
+        "projectID": 4,
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      },
+      {
+        "projectID": 5,
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      },
+      {
+        "projectID": 6,
+        "projectName": "Pixabay Clone",
+        "projectImage": "https://raw.githubusercontent.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/master/demo.jpg",
+        "projectDescription": "React & bootstrap UI application to find images and videos utilizing the PixaBay API",
+        "projectLinks": {
+          "github": "https://github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React",
+          "download": "https://codeload.github.com/kirankumargonti/Image-and-video-finder-with-PixaBay-API-and-React/zip/master",
+          "previewURL": "https://kirankumargonti.github.io/Image-and-video-finder-with-PixaBay-API-and-React/"
+        },
+        "projectTechStack": {
+          "html": "html",
+          "css": "css",
+          "react": "react",
+          "bootstrap": "bootstrap"
+        }
+      }
+    ]
+  }
+}

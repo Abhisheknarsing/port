@@ -1,0 +1,54 @@
+.contact {
+  color: $white__color;
+  height: 100vh;
+  .contact__container {
+    h4 {
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .left {
+      padding: 20px 50px;
+      input,
+      textarea {
+        background-color: transparent;
+        outline: none !important;
+        border-color: $border-color-one;
+        &:focus {
+          outline: none !important;
+        }
+        color: $white__color;
+      }
+      button {
+        background: $brand__color;
+        border: 0;
+        outline: none !important;
+        text-transform: uppercase;
+        font-family: $Josefin;
+        &:focus {
+          outline: none !important;
+        }
+      }
+    }
+    .right {
+      padding: 20px 20px;
+      width: 100%;
+      @include displayCenter(center, space-evenly);
+      flex-direction: column;
+      height: 100%;
+
+      .info {
+        @include displayCenter(center, flex-start);
+        width: 100% !important;
+        // border: 1px solid $border-color-one;
+        background-color: $brand__color;
+        margin-bottom: 5px;
+        .left {
+          .contact__icon {
+            font-size: 25px;
+            vertical-align: top;
+          }
+        }
+      }
+    }
+  }
+}

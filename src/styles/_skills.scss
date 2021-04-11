@@ -1,0 +1,42 @@
+.skills {
+  width: 100%;
+  min-height: 100vh;
+  .skills__container {
+    margin: auto;
+    h3 {
+      color: $white__color;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .skills__wrapper {
+      @include displayCenter(center, flex-start);
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+      
+      .icon__wrapper__f {
+        background: $brand__color;
+        color: $white__color !important;
+        min-width: 45px;
+        min-height: 45px;
+        border-radius: 50%;
+        margin: 15px;
+        @include displayCenter(center, center);
+        &::after,
+        &::before {
+          border-radius: 50%;
+          background: $neon_background_two;
+        }
+        &:hover {
+          &::after,
+          &::before {
+            background: $neon_background_three;
+          }
+        }
+
+        .icon__f {
+          font-size: 25px;
+        }
+      }
+    }
+  }
+}

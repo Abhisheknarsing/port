@@ -1,0 +1,110 @@
+@media (max-width: 992px) {
+  .banner {
+    .js {
+      display: none;
+    }
+    .content {
+      min-width: 100%;
+      padding: 10px;
+    }
+  }
+  .nav__Sidebar {
+    position: absolute;
+    background-color: #191d2b;
+    z-index: 10;
+    left: -182px;
+    transition: all 0.3s ease-in-out;
+    .choose {
+      display: block;
+    }
+  }
+  .makeVisibleOne {
+    left: 0px !important;
+  }
+
+  .contact {
+    .contact__container {
+      .left {
+        margin-bottom: 30px;
+      }
+      .right {
+        .info {
+          margin-bottom: 30px;
+          align-items: center !important;
+          .left {
+            margin: auto 10px auto 0;
+            padding: 15px;
+          }
+        }
+      }
+    }
+  }
+  .contact .contact__container {
+    .left,
+    .right {
+      padding: 0;
+    }
+  }
+  .about .about__container .about__left {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 25px;
+  }
+  .about {
+    padding: 0;
+  }
+}
+@media (max-width: 768px) {
+  .about .about__container .about__right p {
+    line-height: 25px;
+    text-align: justify;
+    font-size: 12px;
+    font-family: 'Mulish', sans-serif;
+    margin: 10px 0;
+  }
+  .about .about__container .about__right h1 {
+    font-size: 1.5rem;
+  }
+  .about .about__container .about__right h4 {
+    font-size: 1rem;
+  }
+  .banner .content h1 {
+    font-size: 1.5rem;
+  }
+  .banner .content h4 {
+    font-size: 1rem;
+  }
+  .section__title h3 {
+    font-size: 1.5rem;
+  }
+  .skills .skills__container h3 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .projects
+    .projects__container
+    .projects_wrapper
+    .project_card
+    .project_description
+    h3 {
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1px;
+  }
+  .projects
+    .projects__container
+    .projects_wrapper
+    .project_card
+    .project_description
+    p {
+    font-size: 12px;
+    text-transform: capitalize;
+  }
+
+  .notfound .notfound_content h1 {
+    font-size: 2rem !important;
+  }
+}
